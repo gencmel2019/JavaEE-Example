@@ -42,7 +42,7 @@
     <configuration>
         <url>http://localhost:8080/manager/text</url>
         <server>TomcatServer</server>
-        <path>/HelloJEE</path>
+        <path>/JEE-Ecommerce</path>
     </configuration>
 </plugin>
     </plugins>
